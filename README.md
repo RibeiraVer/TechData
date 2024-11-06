@@ -1,2 +1,0 @@
-# TechData
-pytonbigdata
